@@ -12,7 +12,7 @@ public class Demo01ArrayParam {
         System.out.println(array); // 地址值
 
         printArray(array); // 传递进去的就是array当中保存的地址值
-        System.out.println("==========AAA==========");
+        System.out.println("==========CCC==========");
         printArray(array);
         System.out.println("==========BBB==========");
         printArray(array);
